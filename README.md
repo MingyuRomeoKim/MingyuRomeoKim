@@ -19,22 +19,19 @@
 <br/>
 새로운 기술 및 모르는 개념에 대한 학습을 꾸준히 진행합니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingyuRomeoKim&show_icons=true&theme=radical)
 
-## 🛠️ 주요 기술 스택
+## 💻 Web
 
-- Back-End: PHP, Laravel, JAVA, SpringBoot
-- Front-End: JavaScript, Vue.js, JQuery 
-- Database: MySQL, MongoDB
-- Others: Docker, Nginx, AWS, Git, Kafka, ElasticSearch, Linux, Ubuntu
-- New: Swift
+>  PHP, Laravel
 
-## 🎓 학력
+## 💾 Server
+>  PHP, Java
 
-- **한국방송통신대학교**, 컴퓨터과학과 졸업 이학 학사 _(2021)_
+## 📱 Mobile
+>  Swift (recently Interest)
 
-## 📬 연락처
-
-- 이메일: rlaalsrb0466@naver.com.com
-- Blog1: [워드프레스 블로그](https://kimmingyu.co.kr)
-- Blog2: [티스토리 블로그](https://min-nine.tistory.com)
+## 📬 Else
+1994.01.24
+> 이메일: rlaalsrb0466@naver.com.com <br/>
+> Blog1: [블로그2](https://kimmingyu.co.kr) <br/>
+> Blog2: [블로그1](https://min-nine.tistory.com)
