@@ -25,5 +25,4 @@
 ## 📬 Else
 1994.01.24
 > 이메일: rlaalsrb0466@naver.com.com <br/>
-> Blog2(20.06.16 ~ ing): [블로그2](https://kimmingyu.co.kr) <br/>
-> Blog1(20.01.01 ~ 23.02.20 / 운영 중지): [블로그1](https://min-nine.tistory.com)
+> Blog: [블로그1](https://min-nine.tistory.com)
